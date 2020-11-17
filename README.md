@@ -13,3 +13,4 @@ in the application or redirected to the registration page if the user tries to l
 
 <img src="https://github.com/LucasBarbosaFonseca/AppGoBarberReactNative/blob/master/ImagesMobile/WhatsApp%20Image%202020-11-17%20at%2010.14.52.jpeg" width="200" >
 <img src="https://github.com/LucasBarbosaFonseca/AppGoBarberReactNative/blob/master/ImagesMobile/WhatsApp%20Image%202020-11-17%20at%2010.15.16.jpeg" width="200" >
+<img src="https://github.com/LucasBarbosaFonseca/AppGoBarberReactNative/blob/master/ImagesMobile/WhatsApp%20Image%202020-11-17%20at%2010.15.34.jpeg" width="200" >
